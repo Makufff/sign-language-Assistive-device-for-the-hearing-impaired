@@ -26,12 +26,12 @@ To use the Sign Language Assistive Device, follow these steps:
 
 3. **Clone the Repository**: Clone this repository to your Raspberry Pi by executing the following command in the terminal:
 ```shell
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Makufff/sign-language-Assistive-device-for-the-hearing-impaired.git
 ```
    
 5. **Navigate to the Project Directory**: Change the working directory to the project folder:
 ```shell
-cd your-repository
+cd sign-language-Assistive-device-for-the-hearing-impaired
 ```
 
 7. **Run the Sign Language Recognition Script**: Execute the Python script responsible for capturing and interpreting sign language gestures:
